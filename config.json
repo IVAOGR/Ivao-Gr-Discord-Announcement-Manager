@@ -1,0 +1,9 @@
+{
+    "TOKEN": "discord_token_here",
+    "version": "2.1",
+    "excludeRole": "discord_role_name",
+    "divisionChannel": 666666666666666666,
+    "eventsChannel": 666666666666666666,
+    "atcChannel": 666666666666666666,
+    "soChannel": 666666666666666666
+  }
