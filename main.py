@@ -90,14 +90,6 @@ login_page.mainloop()
 #######################################################################################
 #######################################################################################
 
-# TOKEN = 'MTIxNTM5Nzg4NTcxMDE3MjE5MA.GLP4nW.CTpWlamrg_Qv3z0ki_tNnNILSsHzgKPTP7ImZs'
-# version = '1.2'
-# excludeRole = 'DontSendDM'
-# divisionChannel = 1215971486704341004
-# eventsChannel = 1215971509412171876
-# atcChannel = 1215971532673912963
-# soChannel = 1215971555247657061
-
 
 if CanOpen:
     temp_dir = tempfile.gettempdir()
